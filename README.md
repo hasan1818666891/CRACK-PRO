@@ -17,7 +17,7 @@ $ git clone https://github.com/Naim75o/CRACK-PRO
 #### RUN SCRIPT
 ```python
 $ cd CRACK-PRO
-$ python2 FLAME-11.py
+$ python2 FLAME-PAID.py
 
 #### Wp number: 
 
